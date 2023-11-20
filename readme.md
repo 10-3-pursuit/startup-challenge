@@ -2,7 +2,7 @@
 
 **Objective:** Each squad will conceptualize a web app startup idea, focusing on a unique problem-solving approach. They will not build the app but will prepare a comprehensive presentation of their idea.
 
-Duration: 3 hours
+**Duration:** 3 hours
 
 ## Phase 1: Problem Identification & Research (45 minutes)
 
@@ -36,9 +36,9 @@ Duration: 3 hours
 - Wireframes of the app.
 - Why their app could be successful in the market.
 
-Rehearsal: Quick run-through of their presentation to ensure it's within the time limit.
+**Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
 
-## Final Phase: Presentations (Remaining Time)
+## Final Phase: Presentations
 
 Each squad presents their startup idea to the class.
 Encourage other squads to ask questions and give feedback.
