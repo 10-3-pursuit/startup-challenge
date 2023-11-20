@@ -8,11 +8,11 @@
 
 **Brainstorming Session (15 minutes):** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, health, environment, entertainment, etc.
 
-**Market Research (30 minutes):** squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
+**Market Research (30 minutes):** Squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
 
 ## Phase 2: Concept Development (1 hour)
 
-**App Conceptualization:** squads define their app idea, focusing on:
+**App Conceptualization:** Squads define their app idea, focusing on:
 
 - What it does.
 - How it stands out from existing solutions.
