@@ -3,6 +3,7 @@
 <img src="pitch.png" width="500" height="350">
 
 Have you ever watched _Shark Tank_ or **The Pitch**?
+Well not only will you create the business, but now you will tell us what the website for that business would be.
 
 **Objective:** Each squad will conceptualize a web app startup idea, focusing on a unique problem-solving approach. They will not build the app but will prepare a comprehensive presentation of their idea.
 
@@ -28,7 +29,15 @@ Have you ever watched _Shark Tank_ or **The Pitch**?
 
 **User Stories:** Write 5-7 user stories that describe how different personas would interact with the app. These should be specific scenarios.
 
-**Wireframe Creation:** Sketch basic wireframes for the app’s main interfaces. They can use tools like Balsamiq, or simple pen and paper. Focus on user flow and key features.
+**Wireframe Creation:** Sketch basic wireframes for the app’s main interfaces. They can use tools like Balsamiq, or simple pen and paper. Focus on user flow and key features. (if you use paper, please take a snapshot and upload to a computer)
+
+Here are some tools that you possibly could use:
+
+- [UI/UX Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/user-experience.md)
+
+- [UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md)
+
+- [Design Tools](https://github.com/10-3-pursuit/10-3-resources/tree/main/project-tools)
 
 ## Phase 4: Presentation Preparation (30 minutes)
 
