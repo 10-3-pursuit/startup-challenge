@@ -3,7 +3,7 @@
 <img src="pitch.png" width="500" height="350">
 
 Have you ever watched _Shark Tank_ or **The Pitch**?
-Well not only will you create the business, but now you will tell us what the website for that business would be.
+Well not only will you create the startup, but now you will tell us what the website for that startup would be.
 
 **Objective:** Each squad will conceptualize a web app startup idea, focusing on a unique problem-solving approach. They will not build the app but will prepare a comprehensive presentation of their idea.
 
