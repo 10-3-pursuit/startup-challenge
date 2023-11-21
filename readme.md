@@ -53,5 +53,18 @@ Here are some tools that you possibly could use:
 
 ## Final Phase: Presentations
 
-Each squad presents their startup idea to the class.
-Encourage other squads to ask questions and give feedback.
+Each squad has 5 minutes to present their startup idea to the class
+
+Tell us:
+
+- the name of the product
+- the persona, i.e. who are you solving this problem for, the persona. e.g. "Jon is a student who can't afford to go to college. They need a way to find scolarship options for which they are elgible"
+- what problem the product solves
+- how you differentiate yourselves from other products
+- user stories, what will the user be able to do, specifically with the app.
+
+You can show us lo-fi, med-fi, hi-fi mockups, wireframes,logos, palettes, fonts and/or any other deliverables you choose. You could even do an HTML, CSS mockup, but coding is not at all required.
+
+As many people as possible in your squad should have a chance to speak.
+
+Good Luck!
