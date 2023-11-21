@@ -1,5 +1,9 @@
 # Startup Challenge
 
+<img src="pitch.png" width="500" height="350">
+
+Have you ever watched _Shark Tank_ or **The Pitch**?
+
 **Objective:** Each squad will conceptualize a web app startup idea, focusing on a unique problem-solving approach. They will not build the app but will prepare a comprehensive presentation of their idea.
 
 **Duration:** 3 hours
