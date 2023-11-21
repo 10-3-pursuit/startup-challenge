@@ -58,7 +58,7 @@ Each squad has 5 minutes to present their startup idea to the class
 Tell us:
 
 - the name of the product
-- the persona, i.e. who are you solving this problem for, the persona. e.g. "Jon is a student who can't afford to go to college. They need a way to find scolarship options for which they are elgible"
+- the persona(s), i.e. who are you solving this problem for? e.g. "Jon is a student who can't afford to go to college. They need a way to find scolarship options for which they are elgible"
 - what problem the product solves
 - how you differentiate yourselves from other products
 - user stories, what will the user be able to do, specifically with the app.
